@@ -1,2 +1,2 @@
 # mytrexgame
-help the trex espace
+help the trex game develop..
